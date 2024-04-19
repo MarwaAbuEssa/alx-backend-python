@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-'''Task 7's module.
-'''
+"""Complex types - string and int/float to tuple
+"""
 from typing import Union, Tuple
 
 
