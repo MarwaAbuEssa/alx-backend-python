@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-'''Task 0's module.
-'''
+"""type-annotated function .
+"""
 
 
 def add(a: float, b: float) -> float:

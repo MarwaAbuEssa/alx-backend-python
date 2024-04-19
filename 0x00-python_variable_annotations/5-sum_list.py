@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-'''Task 5's module.
-'''
+""" Complex types - list of floats.
+"""
 from typing import List
 
 

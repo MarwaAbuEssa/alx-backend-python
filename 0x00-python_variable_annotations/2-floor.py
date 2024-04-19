@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-'''Task 2's module.
-'''
+""" Basic annotations - floor
+"""
 
 
 def floor(a: float) -> int:
