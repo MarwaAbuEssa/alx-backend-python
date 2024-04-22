@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-'''Task 11's module.
-'''
+"""Typing check.
+"""
 from typing import Any, Mapping, Union, TypeVar
 
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-'''Task 10's module.
-'''
+""" Duck typing - first element of a sequence.
+"""
 from typing import Any, Sequence, Union
 
 

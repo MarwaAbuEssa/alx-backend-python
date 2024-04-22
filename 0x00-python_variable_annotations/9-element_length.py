@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-'''Task 9's module.
-'''
+"""Lets duck type an iterable object.
+"""
 from typing import Iterable, List, Sequence, Tuple
 
 

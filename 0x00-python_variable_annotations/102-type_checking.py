@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-'''Task 12's module.
-'''
+""" More involved type annotations.
+"""
 from typing import List, Tuple
 
 
